@@ -1,0 +1,16 @@
+html {
+  box-sizing: border-box;
+  font-family: Roboto, sans-serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+p, h2 {
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.banner {
+  max-height: 500px;
+}
